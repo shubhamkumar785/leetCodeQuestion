@@ -2,7 +2,7 @@
 This repository has solutions to LeetCode problems in Java. Easy-to-understand code with explanations.
 
 ## Features
-- Solutions for **arrays, strings, linked lists, trees, and more**.
+- Solutions for **arrays, arrayList, linkedList, stack, queue, HashMap, strings, trees, and more**.
 - Clear and well-explained code.
 - Optimized solutions for better performance.
 

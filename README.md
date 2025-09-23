@@ -17,7 +17,7 @@ This repository has solutions to LeetCode problems in Java. Easy-to-understand c
 ## Contributions
 If you want to add more solutions, feel free to create a pull request.
 
-##License
+## License
 ```
 If you want, I can also make a **more colorful and eye-catching version** for GitHub that looks professional. Do you want me to do that?
 

@@ -7,8 +7,8 @@ class Solution {
 
     public static int findKthLargest(int[] nums, int k){
         PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int ele : nums){
-            pq.add(ele);
+        for(int num : nums){
+            pq.add(num);
             if(pq.size() > k){
                 pq.remove();
             }
